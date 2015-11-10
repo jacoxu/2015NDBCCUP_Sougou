@@ -2,7 +2,7 @@
 
 This is our code for [NDBCCUP2015 on knowledge Extraction from the web](http://www.ndbc2015.org/about.jsp) - Semantic Relevancy Calculation of Short Texts, and we got **[Third-Class Award (4/92)](http://iir.ruc.edu.cn/ndbccup2015/Score.jsp)**.  
 
-**Team member**: Jiaming Xu, Jun Tian, Shiyu Zhou.    
+**Team member**: [Jiaming Xu](http://jacoxu.com), Jun Tian, Shiyu Zhou.    
 **Adviser**: Bo Xu, Guanhua Tian, Fangyuan Wang.    
 
 Please feel free to send me emails (*jacoxu@msn.com*) if you have any problems.  
