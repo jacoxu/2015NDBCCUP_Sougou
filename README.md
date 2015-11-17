@@ -1,6 +1,6 @@
 # README #
 
-This is our code for [NDBCCUP2015 on knowledge Extraction from the web](http://www.ndbc2015.org/about.jsp) - Semantic Relevancy Calculation of Short Texts, and we got **[Third-Class Award (4/92)](http://iir.ruc.edu.cn/ndbccup2015/Score.jsp)**.  
+This is our code for [NDBCCUP2015 on knowledge Extraction from the web](http://www.ndbc2015.org/about.jsp) - Semantic Relevancy Calculation of Short Texts, and we got **[Third-Class Award (4/92)](http://iir.ruc.edu.cn/ndbccup2015/Score.jsp)**. The mean squared error of our solution is 0.772697, and the best result is 0.737663.  
 
 **Team member**: [Jiaming Xu](http://jacoxu.com), Jun Tian, Shiyu Zhou.    
 **Adviser**: Bo Xu, Guanhua Tian, Fangyuan Wang.    
