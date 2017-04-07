@@ -15,3 +15,7 @@ Please feel free to send me emails (*jacoxu@msn.com*) if you have any problems.
 /library: all external sources.  
 /matlabCode: matlab code for classification.  
 /20150501-提交版-短文本语义相关度计算说明文档.pdf
+
+
+<img src="http://wx1.sinaimg.cn/mw690/697b070fly1fee7s20sv0j20mr0sgqaz.jpg" width="350">
+
